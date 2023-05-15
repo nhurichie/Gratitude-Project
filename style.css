@@ -18,20 +18,20 @@ p {
     line-height: 1.32rem;
 }
 
-#hero h1{
+#hero h1 {
     font-family: 'Darumadrop One', cursive;
     text-align: center;
     font-size: 4rem;
 }
 
 #hero img {
-align-items: center;
+    align-items: center;
 }
 
 
 .happyfoto {
-   height: 860px;
-   width: auto;
+    height: 860px;
+    width: auto;
 }
 
 main#container {
