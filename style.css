@@ -3,7 +3,6 @@ font-family: 'Montserrat', sans-serif; */
 
 h1 {
     font-family: 'Darumadrop One', cursive;
-    color: rgb(48, 43, 108);
     font-size: 3rem;
     text-align: center;
     padding: 0px 0px 20px 0;
@@ -18,16 +17,23 @@ p {
     line-height: 1.32rem;
 }
 
-#hero h1 {
+header {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero-text h1 {
+  
     font-family: 'Darumadrop One', cursive;
     text-align: center;
     font-size: 4rem;
 }
 
-#hero img {
+#hero-text img {
     align-items: center;
 }
-
 
 .happyfoto {
     height: 860px;
@@ -36,7 +42,6 @@ p {
 
 main#container {
     display: flex;
-
 }
 
 section#flyer {
@@ -44,7 +49,6 @@ section#flyer {
     text-align: center;
     justify-content: center;
     max-height: min-content;
-
 }
 
 section#guidelines {
@@ -54,10 +58,18 @@ section#guidelines {
     padding: 0px 80px 0px 0px;
 }
 
-span.atty {
+span.atty-love {
+    font-family: 'Darumadrop One', cursive;
+    color: rgb(210, 75, 151);
     font-weight: 800;
     font-weight: bolder;
-    font-style: italic;
+    font-size: larger;
+}
+
+span.atty {
+    font-family: 'Darumadrop One', cursive;
+    font-weight: 800;
+    font-weight: bolder;
     color: rgb(210, 75, 151)
 }
 
@@ -66,8 +78,14 @@ span.atty {
 }
 
 span.love {
+    font-family: 'Darumadrop One', cursive;
     color: rgb(48, 43, 108);
     font-weight: 800;
-    font-style: italic;
+    font-size: medium;
+}
 
+span.empha {
+    font-family: 'Darumadrop One', cursive;
+    color:rgb(247, 226, 110);
+    font-weight: bolder;
 }
