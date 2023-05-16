@@ -25,7 +25,6 @@ header {
 }
 
 #hero-text h1 {
-  
     font-family: 'Darumadrop One', cursive;
     text-align: center;
     font-size: 4rem;
@@ -68,9 +67,9 @@ span.atty-love {
 
 span.atty {
     font-family: 'Darumadrop One', cursive;
+    color: rgb(210, 75, 151);
     font-weight: 800;
-    font-weight: bolder;
-    color: rgb(210, 75, 151)
+    font-weight: bolder; 
 }
 
 .sub-h1 {
@@ -86,6 +85,6 @@ span.love {
 
 span.empha {
     font-family: 'Darumadrop One', cursive;
-    color:rgb(247, 226, 110);
+    color: rgb(247, 226, 110);
     font-weight: bolder;
 }
