@@ -5,7 +5,7 @@ h1 {
     font-family: 'Darumadrop One', cursive;
     font-size: 3rem;
     text-align: center;
-    padding: 0px 0px 20px 0;
+    padding: 0px 0px 10px 0;
     margin: 0;
 }
 
@@ -35,7 +35,7 @@ header {
 }
 
 .happyfoto {
-    height: 860px;
+    height: 850px;
     width: auto;
 }
 
