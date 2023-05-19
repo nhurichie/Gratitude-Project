@@ -40,9 +40,6 @@ header {
 #flyer img.happyfoto {
     width: 100%;
     height: auto;
-    align-items: center;
-    align-content: space-evenly;
-    justify-content: space-evenly;
 }
 
 main#container {
@@ -63,7 +60,6 @@ section#guidelines {
 section#gclist {
     flex: 1;
     padding-left: 10px;
-
 }
 
 #gclist h1.listhead {
