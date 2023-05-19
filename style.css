@@ -8,10 +8,10 @@ h1 {
 
 p {
     font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
     font-weight: 800;
     text-align: justify;
-    font-size: 16px;
-    line-height: 1.32rem;
+    line-height: 1.4rem;
 }
 
 header {
@@ -85,7 +85,6 @@ span.sub_dead {
     font-family: 'Darumadrop One', cursive;
     font-weight: 800;
     font-weight: bolder;
-    font-size: larger;
 }
 
 span.atty-love {
