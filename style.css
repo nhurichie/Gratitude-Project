@@ -37,10 +37,10 @@ header {
     color: rgb(247, 226, 110);
 }
 
- #flyer img.happyfoto {
+#flyer img.happyfoto {
     width: 100%;
     height: auto;
-    align-items:center;
+    align-items: center;
     align-content: space-evenly;
     justify-content: space-evenly;
 }
@@ -63,7 +63,7 @@ section#guidelines {
 section#gclist {
     flex: 1;
     padding-left: 10px;
-    
+
 }
 
 #gclist h1.listhead {
@@ -85,12 +85,18 @@ section#gclist {
     line-height: 1.5rem;
 }
 
+span.sub_dead {
+    font-family: 'Darumadrop One', cursive;
+    font-weight: 800;
+    font-weight: bolder;
+    font-size: larger;
+}
+
 span.atty-love {
     font-family: 'Darumadrop One', cursive;
     color: rgb(210, 75, 151);
     font-weight: 800;
-    font-weight: bolder;
-    font-size: larger;
+    font-weight: bold;
 }
 
 span.atty {
